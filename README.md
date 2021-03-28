@@ -16,6 +16,8 @@ Application for user to track their spending. User has the option to add funds o
 
 [Deployed Application](https://limitless-bayou-62433.herokuapp.com/)
 
+![image](https://user-images.githubusercontent.com/73569538/112768502-29f83000-8fd1-11eb-8275-ce581d12ce7a.png)
+
 ### Contribution Guidelines
 
 All contributions done by Jacob Kriese
